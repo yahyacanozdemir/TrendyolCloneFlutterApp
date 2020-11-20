@@ -2,6 +2,14 @@
 
 ## Flutter ile Trendyol Önyüzünün Kopyası
 Dart dili kullanarak Trendyol alışveriş uygulamasının front-end kısmını geliştirmiş bu sayede flutter içindek önemli bir çok widget'a vakıf olmuş durumdayım.
+![1_3](https://user-images.githubusercontent.com/43846778/99797106-b5534780-2b3f-11eb-8c24-debb3102c12f.jpg)
+
+
+
+
+
+
+
 
 
 ## Version Bilgilendirme 
