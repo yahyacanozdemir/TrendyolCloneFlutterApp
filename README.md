@@ -21,4 +21,4 @@ Yeni sürümler için github ve linkedin hesaplarımı takip edebilirsiniz..
  
 
 ### Dikkat
-Bu uygulama yalnızca flutter'ın temel yapı taşlarını öğrenmek, alıştırma yapmak ve mobil programlama üzerine kendimi geliştirmek için tarafımca kodlanmış bir clone uygulamadır.
+#### Bu uygulama yalnızca flutter'ın temel yapı taşlarını öğrenmek, alıştırma yapmak ve mobil programlama üzerine kendimi geliştirmek için tarafımca kodlanmış bir clone uygulamadır.
