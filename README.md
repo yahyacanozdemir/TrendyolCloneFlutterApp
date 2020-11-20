@@ -5,20 +5,16 @@
 Dart dili kullanarak Trendyol alışveriş uygulamasının front-end kısmını geliştirmiş bu sayede flutter içindek önemli bir çok widget'a vakıf olmuş durumdayım.
 
 
-
-
-
-
-
-
 ## Version Bilgilendirme 
-
 Trendyol Clone 1.0 Çıktı!
 Uygulamanın çalışabilmesi için Android 4.1 & OS 9.0 veya daha üst sürüme sahip bir  akıllı telefon gerekmektedir.
 Yeni sürümler için github ve linkedin hesaplarımı takip edebilirsiniz..
 
 
-## İndirme ve Test Bağlantısı(APK)
+## İndirme ve Test Bağlantısı(Android)
+
+
+## İndirme ve Test Bağlantısı(OS)
  
  
 
