@@ -3,7 +3,7 @@
 ## Flutter ile Trendyol Önyüzünün Kopyası
 Dart dili kullanarak Trendyol alışveriş uygulamasının front-end kısmını geliştirmiş bu sayede flutter içindek önemli bir çok widget'a vakıf olmuş durumdayım.
 
-###Dikkat
+### Dikkat
 Bu uygulama yalnızca flutter'ın temel yapı taşlarını öğrenmek, alıştırma yapmak ve mobil programlamada üzerine kendimi geliştirmek için tarafımca kodlanmış bir clone uygulamadır.
 
 
