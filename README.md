@@ -15,7 +15,7 @@ Yeni sürümler için github ve linkedin hesaplarımı takip edebilirsiniz..
 ![3_2](https://user-images.githubusercontent.com/43846778/99798615-5e9b3d00-2b42-11eb-8695-b1381cadb354.jpg)
 
 
-## İndirme ve Test Bağlantısı(OS)
+## IOS Ekran Görüntüleri
 ![2_1](https://user-images.githubusercontent.com/43846778/99798681-78d51b00-2b42-11eb-926e-000c5bcb9b74.jpg)
  
  
