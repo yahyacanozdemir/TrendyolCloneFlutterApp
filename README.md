@@ -13,6 +13,7 @@ Yeni sürümler için github ve linkedin hesaplarımı takip edebilirsiniz..
 
 ## İndirme ve Test Bağlantısı(Android)
 ![3_2](https://user-images.githubusercontent.com/43846778/99798615-5e9b3d00-2b42-11eb-8695-b1381cadb354.jpg)
+https://drive.google.com/file/d/16S2cECgsljmRuG8S9Sj-Y8FXGcnMkbBU/view?usp=sharing
 
 
 ## IOS Ekran Görüntüleri
