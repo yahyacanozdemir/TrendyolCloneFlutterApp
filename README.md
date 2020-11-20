@@ -15,11 +15,10 @@ Yeni sürümler için github ve linkedin hesaplarımı takip edebilirsiniz..
 
 
 ## İndirme ve Test Bağlantısı(OS)
+![2_1](https://user-images.githubusercontent.com/43846778/99798325-e16fc800-2b41-11eb-9cdf-9beb4367347b.jpg)
  
  
 
-## Iphone Üzerinde Uygulama Görselleri
-![2](https://user-images.githubusercontent.com/43846778/99797093-aff5fd00-2b3f-11eb-8709-6a96fb50319b.jpg)
 
 ## Android Üzerinde Uygulama Görselleri
 ![3](https://user-images.githubusercontent.com/43846778/99797099-b3898400-2b3f-11eb-97ce-d0211b330013.jpg)
