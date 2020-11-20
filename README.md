@@ -1,9 +1,8 @@
 # Trendyol Clone Android & Ios App
 
 ## Flutter ile Trendyol Önyüzünün Kopyası
-Dart dili kullanarak Trendyol alışveriş uygulamasının front-end kısmını geliştirmiş bu sayede flutter içindek önemli bir çok widget'a vakıf olmuş durumdayım.
 ![1_3](https://user-images.githubusercontent.com/43846778/99797106-b5534780-2b3f-11eb-8c24-debb3102c12f.jpg)
-
+Dart dili kullanarak Trendyol alışveriş uygulamasının front-end kısmını geliştirmiş bu sayede flutter içindek önemli bir çok widget'a vakıf olmuş durumdayım.
 
 
 
@@ -21,6 +20,13 @@ Yeni sürümler için github ve linkedin hesaplarımı takip edebilirsiniz..
 
 ## İndirme ve Test Bağlantısı(APK)
  
+ 
+
+## Iphone Üzerinde Uygulama Görselleri
+![2](https://user-images.githubusercontent.com/43846778/99797093-aff5fd00-2b3f-11eb-8709-6a96fb50319b.jpg)
+
+## Android Üzerinde Uygulama Görselleri
+![3](https://user-images.githubusercontent.com/43846778/99797099-b3898400-2b3f-11eb-97ce-d0211b330013.jpg)
  
 
 
